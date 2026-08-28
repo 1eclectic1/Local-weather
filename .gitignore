@@ -1,0 +1,6 @@
+# Ignore session runtime artifacts or local configurations
+notme/
+nws_forecast_cache.json
+
+# Ignore core OS file tags
+.DS_Store
